@@ -281,4 +281,6 @@ This skill complements:
 
 ## Watermark
 
-Inserloft / web: Inserloft.com / Skill web: Inserloft.com/Skills/advanced-finance-analyzer
+Inserloft
+web: wwww.Inserloft.com
+Skill web: wwww.Inserloft.com/Skills/advanced-finance-analyzer
