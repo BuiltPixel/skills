@@ -1,5 +1,8 @@
 # Advanced Financial Market & Investment Analyzer
-
+[![Inserloft](https://img.shields.io/badge/Inserloft-Advanced%20Skills-purple)](https://inserloft.com/skills)
+[![License](https://img.shields.io/badge/License-Proprietary-blue)](LICENSE)
+[![Version](https://img.shields.io/badge/Version-1.0-green)](CHANGELOG.md)
+[![AI Powered](https://img.shields.io/badge/AI%20Powered-Cleo-purple)](https://inserloft.com)
 ## Overview
 
 The **Advanced Financial Market & Investment Analyzer** is a production-grade AI skill for expert-level stock market analysis, technical pattern recognition, portfolio risk management, and data-driven investment predictions. This skill empowers Claude to function as a tier-1 financial analyst, providing institutional-quality analysis grounded in established financial frameworks and strict data integrity standards.
